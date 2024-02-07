@@ -4,11 +4,11 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 http://maven.apache.org/maven-v4_0_0.xsd">  
   
   <modelVersion>4.0.0</modelVersion>  
-  <groupId>com.javatpoint</groupId>  
-  <artifactId>CubeGenerator</artifactId>  
+  <groupId>teamcitydemotest</groupId>  
+  <artifactId>JavaFirstProgram</artifactId>  
   <packaging>jar</packaging>  
   <version>1.0-SNAPSHOT</version>  
-  <name>CubeGenerator</name>  
+  <name>teamcitydemotest</name>  
   <url>http://maven.apache.org</url>  
   <dependencies>  
     <dependency>  
